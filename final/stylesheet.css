@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'BBC Reith SmRd App';
+    src: url('BBCReithSmRdApp-Bold.eot');
+    src: local('BBC Reith SmRd App Bold'), local('BBCReithSmRdApp-Bold'),
+        url('BBCReithSmRdApp-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BBCReithSmRdApp-Bold.woff2') format('woff2'),
+        url('BBCReithSmRdApp-Bold.woff') format('woff'),
+        url('BBCReithSmRdApp-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BBC Reith Rd App';
+    src: url('BBCReithRdApp-Heavy.eot');
+    src: local('BBC Reith Rd App Heavy'), local('BBCReithRdApp-Heavy'),
+        url('BBCReithRdApp-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('BBCReithRdApp-Heavy.woff2') format('woff2'),
+        url('BBCReithRdApp-Heavy.woff') format('woff'),
+        url('BBCReithRdApp-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BBC Reith Rd App XBold';
+    src: url('BBCReithRdApp-XBold.eot');
+    src: local('BBC Reith Rd App XBold'), local('BBCReithRdApp-XBold'),
+        url('BBCReithRdApp-XBold.eot?#iefix') format('embedded-opentype'),
+        url('BBCReithRdApp-XBold.woff2') format('woff2'),
+        url('BBCReithRdApp-XBold.woff') format('woff'),
+        url('BBCReithRdApp-XBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BBC Reith Rd App';
+    src: url('BBCReithRdApp-Bold.eot');
+    src: local('BBC Reith Rd App Bold'), local('BBCReithRdApp-Bold'),
+        url('BBCReithRdApp-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BBCReithRdApp-Bold.woff2') format('woff2'),
+        url('BBCReithRdApp-Bold.woff') format('woff'),
+        url('BBCReithRdApp-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BBC Reith SmRd App XBold';
+    src: url('BBCReithSmRdApp-XBold.eot');
+    src: local('BBC Reith SmRd App XBold'), local('BBCReithSmRdApp-XBold'),
+        url('BBCReithSmRdApp-XBold.eot?#iefix') format('embedded-opentype'),
+        url('BBCReithSmRdApp-XBold.woff2') format('woff2'),
+        url('BBCReithSmRdApp-XBold.woff') format('woff'),
+        url('BBCReithSmRdApp-XBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BBC Reith SmRd App';
+    src: url('BBCReithSmRdApp-Heavy.eot');
+    src: local('BBC Reith SmRd App Heavy'), local('BBCReithSmRdApp-Heavy'),
+        url('BBCReithSmRdApp-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('BBCReithSmRdApp-Heavy.woff2') format('woff2'),
+        url('BBCReithSmRdApp-Heavy.woff') format('woff'),
+        url('BBCReithSmRdApp-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
